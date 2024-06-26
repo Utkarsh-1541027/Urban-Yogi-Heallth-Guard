@@ -1,0 +1,3 @@
+Our Multiple Disease Predictor is a user-friendly health care analyzer designed to predict a range of ailments including diabetes, heart conditions, Parkinson's, Dengue, and Malaria. Utilizing advanced technology like Machine Learning, it ensures precise predictions by efficiently processing vast amounts of data and relevant parameters. Our project also provides the integration of a yoga posture assessment feature for holistic health management.
+
+By automating routine health tasks and assessments, our tool not only provides valuable insights but also saves precious time in the hustle and bustle of daily life. Its intuitive interface and robust capabilities revolutionize health management, making it accessible and efficient for all.
